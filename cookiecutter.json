@@ -26,7 +26,7 @@
         "author_name": "\nAuthor name(s) (and/or your organization/company/team).\n\tIf many, separate by comma\n",
         "author_email": "\nE-Mail(s) of main author(s).\n\tIf many, separate by comma\n",
         "description": "\nA short description of the project.\n",
-        "app_version": "\nApplication version (expects X.Y.Z (Major.Minor.Patch), in accordance with `https://semver.org/`).\n",
+        "app_version": "\nApplication version (expects X.Y.Z (Major.Minor.Patch), in accordance with `https://semver.org/.`).\n",
         "open_source_license": {
             "__prompt__": "\nSelect one of the licenses, default is MIT. For more info: `https://opensource.org/licenses`.\n",
             "MIT": "MIT",
